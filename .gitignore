@@ -1,0 +1,9 @@
+backend/node_modules
+backend/config/config.env
+backend/package-lock.json
+frontend/node_modules/
+frontend/config/config.env
+frontend/package-lock.json
+logs/rotate*
+ghCardSelfie/
+ghCardUpload/

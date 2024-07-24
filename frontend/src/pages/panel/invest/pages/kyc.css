@@ -1,0 +1,19 @@
+    /* webcam  */
+    .webcam-container
+    {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width:100%;
+    margin:0 auto;
+    }
+   .webcam-container .webcam-btn
+    {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width:38%;
+    }
+    .webcam{
+      width: 100%;
+      height: 5%;
+      }

@@ -1,0 +1,15 @@
+@font-face {
+    font-family: kuro;
+    src: url('./fonts/KuroMedium.otf') format("truetype");
+    font-weight: 50
+}
+
+@font-face {
+    font-family: regular;
+    src: url('./fonts/KuroMedium.otf') format("truetype");
+    font-weight: 50
+}
+
+body {
+    font-family: kuro !important;
+}
