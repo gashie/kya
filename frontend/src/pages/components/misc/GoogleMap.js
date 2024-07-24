@@ -101,7 +101,7 @@ const GoogleMapPage = () => {
           </BlockHead>
           <PreviewCard>
             <Card className="card-bordered w-100 h-100">
-              <LoadScript googleMapsApiKey="AIzaSyCtOtiFYyiZeSXwiL9RS7PR8cQQXMvZNXI">
+              <LoadScript googleMapsApiKey="">
                 <GoogleMap mapContainerStyle={containerStyle} center={center} zoom={10}>
                   {/* Child components, such as markers, info windows, etc. */}
                   <></>
